@@ -1935,3 +1935,7 @@ section {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.table thead th {
+    vertical-align: middle;
+}

@@ -4,8 +4,11 @@
 <main id="main" class="py-5">
     <section id="demographic" class="demographic mt-5">
         <div class="container" data-aos="fade-up">
-            <div class="section-title">
+            <div class="section-title mb-2">
                 <h1 class="font-weight-bold">{{ $title }}</h1>
+            </div>
+            <div class="mb-5">
+                <small>{{ $date }}</small>
             </div>
             <div>
                 <div class="text-center">

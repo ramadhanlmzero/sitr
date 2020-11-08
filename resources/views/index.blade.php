@@ -5,7 +5,7 @@
     <div data-aos="zoom-in">
         <div class="overlay">
             <h1 class="mb-3 text-justify">Selamat Datang</h1>
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="text-justify">Selamat datang di website resmi Sistem Informasi Tata Ruang Desa Dalegan, Kecamatan Panceng, Kabupaten Gresik, Provinsi Jawa Timur. Website ini merupakan portal digital yang menyediakan berbagai informasi tentang Desa Dalegan baik informasi keruangan maupun informasi secara umum.</p>
         </div>
         <div class="owl-carousel home-carousel">
             <div class="home-item">
@@ -69,7 +69,7 @@
             </div>
             <div>
                 <p class="text-justify">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    Desa Dalegan merupakan salah satu desa yang terletak di Kecamatan Panceng, Kabupaten Gresik. Secara astronomis Desa Dalegan terletak pada koordinat 6°53ʹ25,33ʺ - 6°55ʹ49,44ʺ LS dan 112°27ʹ19,69ʺ - 112°28ʹ56,09ʺ BT. Desa Dalegan berbatasan langsung dengan Laut Jawa di sebelah utara, Desa Campurejo dan Desa Cagaan di sebelah timur, Desa Prupuh di sebelah selatan, serta Desa Campurejo di sebelah barat. Luas desa mencapai 777.281 hektar dengan mayoritas lahan adalah tanah kosong dan sawah. Terdiri dari 6 Lingkungan/RW, 4 Dusun, dan 41 RT.
                 </p>
             </div>
         </div>
@@ -84,10 +84,10 @@
                     <div class="card mb-2">
                         <img class="img-fluid news-thumbnail" src="{{asset('assets/img/scenery-1.jpg')}}" alt="News List">
                         <div class="card-body">
-                            <h4 class="card-title">Berita 1</h4>
+                            <h4 class="card-title">Dalegan Gresik, Desa Wisata Kelola Mandiri Yang Bertahan di Tengah Pandemi Covid-19</h4>
                             <p class="card-text ellipsis">
                                 <small>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                    Desa Dalegan, desa ini terletak di Kecamatan Panceng, Kabupaten Gresik, Provinsi Jawa Timur.
                                 </small>
                             </p>
                             <a href="{{ route('news', 1) }}" class="btn btn-primary text-white">Lihat Selengkapnya</a>
@@ -152,8 +152,10 @@
                     </div>
                     <div class="col-lg-8">
                         <p class="text-justify">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Asal mula Desa Dalegan diceritakan secara turun temurun yang disampaikan secara lisan. Letak Desa sebenarnya berada di sebelah timur dari pusat Pemerintahan Desa sekarang. Sebelum dijadikan pemukiman daerah tersebut merupakan daerah rawa-rawa yang dekat dengan laut. Daerah rawa ini banyak dihuni oleh berbagai macam ikan air tawar seperti lele, gabus/kuthuk/deleg, mujair, dan lainnya. Namun, Ikan yang banyak dijumpai dan mendominasi daerah ini adalah ikan Deleg. Sedang tanaman-tanaman yang banyak tumbuh adalah tanaman Kelapa. Banyaknya tanaman kelapa dan sedikitnya jumlah penduduk mengakibatkan banyak sekali buah kelapa yang jatuh sebelum sebelum dipetik baik itu sudah tua maupun masih muda karena tiupan angin laut yang kencang.
+                        </p>
+                        <p>
+                            Pada suatu hari, seorang alim ulama’ yang tidak diketahui namanya dan diduga adalah Syeh Maulana Ishak (ayah kandung Raden paku/Sunan Giri) berjalan di tepi rawa. Ketika itu beliau melihat peristiwa yang mengusik pikirannya. Beliau melihat banyak ikan deleg sedang berusaha memakan buah kelapa yang masih muda. Ini diluar kewajaran karena ikan deleg biasanya memakan ikan kecil, serangga, atau katak. Untuk mengenang peristiwa yang dialaminya maka beliau memberi nama daerah tersebut dengan nama “Dalegan” yaitu perpaduan dari kata Deleg (nama ikan) dan Degan (buah kelapa muda).
                         </p>
                     </div>
                 </div>

@@ -8,35 +8,183 @@
                 <h1 class="font-weight-bold">Demografi</h1>
             </div>
             <div>
-                <p class="text-justify pb-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                </p>
-                <div class="dt-responsive table-responsive">
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Jumlah Penduduk Hasil Registrasi Menurut Jenis Kelamin 2018</h5>
                     <table id="" class="table table-striped table-bordered nowrap">
                         <thead>
                             <tr>
                                 <th>No.</th>
-                                <th>Nama</th>
-                                <th>Keterangan</th>
-                                <th>Jumlah</th>
+                                <th>Laki-laki</th>
+                                <th>Perempuan</th>
+                                <th>Total</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1</td>
-                                <td>Blablabla</td>
-                                <td>Blablabla</td>
-                                <td>Blablabla</td>
+                                <td width=50 class="text-center">1</td>
+                                <td>3728</td>
+                                <td>3454</td>
+                                <td>7182</td>
                             </tr>
                         </tbody>
-                        <tfoot>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Luas Daerah, Jumlah Rumah Tangga, dan Jumlah Penduduk 2018</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
                             <tr>
                                 <th>No.</th>
-                                <th>Nama</th>
-                                <th>Keterangan</th>
-                                <th>Jumlah</th>
+                                <th>Luas (km<sup>2</sup>)</th>
+                                <th>Jumlah Rumah Tangga</th>
+                                <th>Jumlah Penduduk</th>
                             </tr>
-                        </tfoot>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>6,39</td>
+                                <td>2117</td>
+                                <td>7182</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Kepadatan Penduduk per Km2 dan per Rumah Tangga</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
+                            <tr>
+                                <th rowspan="2">No.</th>
+                                <th colspan="2" class="text-center">Kepadatan Penduduk</th>
+                            </tr>
+                            <tr>
+                                <th>Per km<sup>2</sup></th>
+                                <th>Per Rumah Tangga</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>1124</td>
+                                <td>3</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Jumlah Penduduk Lahir yang Dicatat Menurut Jenis Kelamin 2018</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Laki-laki</th>
+                                <th>Perempuan</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>5</td>
+                                <td>-</td>
+                                <td>5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Jumlah Penduduk Meninggal yang Dicatat Menurut Jenis Kelamin 2018</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Laki-laki</th>
+                                <th>Perempuan</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>4</td>
+                                <td>3</td>
+                                <td>7</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Jumlah Penduduk Datang yang Dicatat Menurut Jenis Kelamin 2018</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Laki-laki</th>
+                                <th>Perempuan</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>31</td>
+                                <td>21</td>
+                                <td>52</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Jumlah Penduduk Pindah yang Dicatat Menurut Jenis Kelamin 2018</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Laki-laki</th>
+                                <th>Perempuan</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>36</td>
+                                <td>30</td>
+                                <td>66</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="dt-responsive table-responsive mb-4">
+                    <h5 class="font-weight-bold">Jumlah Penduduk Hasil Registrasi Menurut Kelompok Umur 2018</h5>
+                    <table id="" class="table table-striped table-bordered nowrap">
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>0-4</th>
+                                <th>5-9</th>
+                                <th>10-14</th>
+                                <th>15-24</th>
+                                <th>25-39</th>
+                                <th>40-59</th>
+                                <th>>=60</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td width=50 class="text-center">1</td>
+                                <td>709</td>
+                                <td>532</td>
+                                <td>460</td>
+                                <td>982</td>
+                                <td>1835</td>
+                                <td>1446</td>
+                                <td>594</td>
+                                <td>7182</td>
+                            </tr>
+                        </tbody>
                     </table>
                 </div>
             </div>

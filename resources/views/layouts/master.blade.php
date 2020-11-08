@@ -7,10 +7,10 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="SITR | Sistem Informasi Tata Ruang" name="description">
-    <meta content="SITR | Sistem Informasi Tata Ruang" name="keywords">
+    <meta content="SITR | Sistem Informasi Tata Ruang Desa" name="description">
+    <meta content="SITR | Sistem Informasi Tata Ruang Desa" name="keywords">
     <meta content="Muhamad Ramadhan" name="author">
-    <title>SITR | Sistem Informasi Tata Ruang</title>
+    <title>SITR | Sistem Informasi Tata Ruang Desa</title>
 
     <link href="{{asset('assets/img/favicon.png')}}" rel="icon">
     <link href="{{asset('assets/fonts/fonts.css')}}" rel="stylesheet" >
@@ -32,7 +32,7 @@
                     <img src="{{ asset('assets/img/logo.png') }}" class="img-fluid mr-2 mt-2" alt="Logo SITR">
                     <div>
                         <h3 class="font-weight-bold my-0">SITR</h3>
-                        <small>Sistem Informasi Tata Ruang</small>
+                        <small>Sistem Informasi Tata Ruang Desa</small>
                     </div>
                 </a>
             </div>
@@ -67,7 +67,7 @@
                                 <img src="{{ asset('assets/img/logo.png') }}" class="img-fluid" alt="Logo SITR">
                             </div>
                             <div class="col-md-8 mt-2">
-                                <h3 class="font-weight-bold">Sistem Informasi Tata Ruang (SITR)</h3>
+                                <h3 class="font-weight-bold">Sistem Informasi Tata Ruang Desa (SITR)</h3>
                                 <p>
                                     <strong>Alamat:</strong> Jl.In Aja Dulu<br>
                                     <strong>Telepon:</strong> 727 4 kali<br>
@@ -92,7 +92,7 @@
         </div>
         <div class="container pb-3">
             <div class="copyright">
-                Sistem Informasi Tata Ruang (SITR)
+                Sistem Informasi Tata Ruang Desa (SITR)
             </div>
             <div class="credits">
                 Copyright &copy; <strong><span>Teknik Geomatika ITS</span></strong>. All Rights Reserved
