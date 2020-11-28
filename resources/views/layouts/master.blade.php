@@ -44,8 +44,8 @@
                     <li class="{{ setActive(['demografi']) }}">
                         <a href="{{ route('demographic') }}">Demografi</a>
                     </li>
-                    <li class="">
-                        <a href="#peta">Peta</a>
+                    <li class="{{ setActive(['peta']) }}">
+                        <a href="{{ route('maps') }}">Peta</a>
                     </li>
                     <li class="{{ setActive(['potensidesa']) }}">
                         <a href="{{ route('potential') }}">Potensi Desa</a>

@@ -14,4 +14,5 @@
 Route::get('/', 'WebController@index')->name('index');
 Route::get('/berita/{id}', 'WebController@news')->name('news');
 Route::get('/demografi', 'WebController@demographic')->name('demographic');
+Route::get('/peta', 'WebController@maps')->name('maps');
 Route::get('/potensidesa', 'WebController@potential')->name('potential');

@@ -80,6 +80,13 @@ class WebController extends Controller
         return view('news', compact('visitors', 'views', 'title', 'image', 'content', 'date'));
     }
 
+    public function maps()
+    {
+        $visitors = $this->countUniqueVisitor();
+        $views = $this->countView();
+        return view('maps', compact('visitors', 'views'));
+    }
+
     public function demographic()
     {
         $visitors = $this->countUniqueVisitor();
